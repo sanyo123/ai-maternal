@@ -368,6 +368,3 @@ For issues or questions:
 **Start using:** `http://localhost:5173` after setup
 
 ---
-
-**Built with ❤️ for better maternal and child healthcare**
-# Last updated: Sat Oct 11 10:32:09 WAT 2025
